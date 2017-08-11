@@ -1,1 +1,1 @@
-# Create Init
+# New asp.net core starting application
