@@ -1,1 +1,1 @@
-# New asp.net core starting application
+# New asp.net core starting application with VSCode
